@@ -1,0 +1,14 @@
+{
+    "name": "2020wangyoujun/youjun",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "hdyj",
+            "email": "3031273848@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
